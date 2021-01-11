@@ -8,4 +8,5 @@
  LINE_8 on remote master
  LINE_9 on remote master
  LINE_10 on local master
+ LINE_11 on local master
 
